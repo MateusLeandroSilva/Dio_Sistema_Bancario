@@ -104,8 +104,8 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 **Seu Nome**
 
-- GitHub: [@seu-usuario](https://github.com/MateusLeandroSilva)
-- LinkedIn: [Seu Nome](https://www.linkedin.com/in/mateusleandrosilva)
+- GitHub: [Mateus Leandro Silva](https://github.com/MateusLeandroSilva)
+- LinkedIn: [Mateus Leandro Silva](https://www.linkedin.com/in/mateusleandrosilva)
 
 ## 🤝 Contribuindo
 
